@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Backwards Ski</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BE</string>
+		<key>Description</key>
+		<string>Ski backwards from High Camp all the way down to the Extreme Benches during Christmas or President's Day week, after 3:30 pm. Skiers only. If busted, you lose points.</string>
+		<key>Points</key>
+		<integer>7000</integer>
+	</dict>
+	<key>Blue's Diet</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BD</string>
+		<key>Description</key>
+		<string>Eat and drink exactly what Blue does for one whole week. (Weekly/Monthly games)</string>
+		<key>Points</key>
+		<integer>30000</integer>
+	</dict>
+	<key>Blue's Enduro</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BE</string>
+		<key>Description</key>
+		<string>Ski KT22 exactly the same number of times in one day as Blue. Do not compete with him or interfere with his skiing experience.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Cushing Pond</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CP</string>
+		<key>Description</key>
+		<string>Cross melting Cushing Pond.</string>
+		<key>Points</key>
+		<integer>8000</integer>
+	</dict>
+	<key>Debbie Dutton</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>DD</string>
+		<key>Description</key>
+		<string>Buy Debbie Dutton lunch at the Squaw Valley restaurant of her choice.</string>
+		<key>Points</key>
+		<integer>15000</integer>
+	</dict>
+	<key>Employee Housing</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>EH</string>
+		<key>Description</key>
+		<string>Successfully score with a SVSC employee currently living in employee housing. Must spend the night in the disease den.</string>
+		<key>Points</key>
+		<integer>20000</integer>
+	</dict>
+	<key>Enchanted Forest Gnome</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>EF</string>
+		<key>Description</key>
+		<string>Get altoid hummer from one of the legendary gnomes in the Enchanted Forest.</string>
+		<key>Points</key>
+		<integer>1000000</integer>
+	</dict>
+	<key>Funitel BJ</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FH</string>
+		<key>Description</key>
+		<string>Get hummer in Funitel.</string>
+		<key>Points</key>
+		<integer>15000</integer>
+	</dict>
+	<key>Hot Tub</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HT</string>
+		<key>Description</key>
+		<string>Ride, fully clothed and with equipment on, from the top of Bailey's into the Hot Tub at High Camp.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Kiss Burt</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KB</string>
+		<key>Description</key>
+		<string>Kiss Tim Burt's snowboard boots. He must be wearing the boots and on the mountain. One player per hour.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Kiss Schmidt</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KB</string>
+		<key>Description</key>
+		<string>Kiss Scot Schmidt's ski boots. He must wearing the boots and on the mountain. One player per hour.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Lee Dooby</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LD</string>
+		<key>Description</key>
+		<string>Challenge Lee Dobby (Squaw's only monoskier) to a race and beat him. Lee chooses venue. Skiers cannot skate.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Lost and Found</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LF</string>
+		<key>Description</key>
+		<string>Collect an entire outfit from the Cable Car Lobby Lost and Found and wear it all day.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Mom Line</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>ML</string>
+		<key>Description</key>
+		<string>Talking to your mother on a cell phone (without headset), stick line worth 500 or greater.</string>
+		<key>Points</key>
+		<integer>7000</integer>
+	</dict>
+	<key>Mono Skiing</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>MS</string>
+		<key>Description</key>
+		<string>Go monoskiing all day long.</string>
+		<key>Points</key>
+		<integer>15000</integer>
+	</dict>
+	<key>Pass Picture</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PP</string>
+		<key>Description</key>
+		<string>Obtain a totally ridiculous season pass picture. 3 or more friends must say, "How did they let you do that?" or equivalent.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Postman Larry</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PL</string>
+		<key>Description</key>
+		<string>Make headband or hat out of Priority Mail tape from Olympic Valley Post Office. Get signed by "Postman Larry" and ski with it on for 3 full days.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Sticker Art</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SA</string>
+		<key>Description</key>
+		<string>Make your own sticker out of "I SKI SQUAW" or "ISNOWBOARD SQUAW" stickers and place it on your car for the season.</string>
+		<key>Points</key>
+		<integer>10000</integer>
+	</dict>
+	<key>Tom Day</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TD</string>
+		<key>Description</key>
+		<string>Get your season pass signed (permanent marker) by Tom Day.</string>
+		<key>Points</key>
+		<integer>8000</integer>
+	</dict>
+</dict>
+</plist>

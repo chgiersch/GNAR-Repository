@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Five Forty</key>
+	<integer>1000</integer>
+	<key>Fourteen Forty</key>
+	<string>Yer Dreamin!</string>
+	<key>Nine Hundred</key>
+	<integer>5000</integer>
+	<key>Seven Twenty</key>
+	<integer>1000</integer>
+	<key>Switch 10</key>
+	<integer>10000</integer>
+	<key>Switch 3</key>
+	<integer>1000</integer>
+	<key>Switch 5</key>
+	<integer>1000</integer>
+	<key>Switch 7</key>
+	<integer>5000</integer>
+	<key>Ten Eighty</key>
+	<integer>5000</integer>
+	<key>Three Sixty</key>
+	<integer>500</integer>
+	<key>Twelve Sixty</key>
+	<string>Yeah Right!</string>
+</dict>
+</plist>

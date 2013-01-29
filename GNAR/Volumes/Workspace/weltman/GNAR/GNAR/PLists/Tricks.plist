@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Any Grab</key>
+	<integer>50</integer>
+	<key>Crotch Grab</key>
+	<integer>100</integer>
+	<key>Daffy</key>
+	<integer>50</integer>
+	<key>Kosak</key>
+	<integer>-100</integer>
+	<key>Mule Kick</key>
+	<integer>50</integer>
+	<key>Spread Eagle</key>
+	<integer>50</integer>
+	<key>Twister</key>
+	<integer>-50</integer>
+</dict>
+</plist>

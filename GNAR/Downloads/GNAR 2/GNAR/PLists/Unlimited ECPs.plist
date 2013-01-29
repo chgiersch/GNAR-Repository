@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>After 3pm</key>
+	<integer>50</integer>
+	<key>Butt Naked</key>
+	<dict>
+		<key>Female</key>
+		<integer>10000</integer>
+		<key>Male</key>
+		<integer>5000</integer>
+	</dict>
+	<key>Cat Track Gap</key>
+	<integer>300</integer>
+	<key>Ego Claim</key>
+	<integer>500</integer>
+	<key>F. Bag</key>
+	<integer>50</integer>
+	<key>Fart Claim</key>
+	<integer>500</integer>
+	<key>First of Year</key>
+	<integer>200</integer>
+	<key>Lagger</key>
+	<integer>0</integer>
+	<key>Old School</key>
+	<integer>200</integer>
+	<key>Pole Wacker</key>
+	<integer>0</integer>
+	<key>Radness Yell</key>
+	<integer>0</integer>
+	<key>Rope Air</key>
+	<integer>0</integer>
+	<key>Snowball</key>
+	<integer>0</integer>
+	<key>Steal Clothes</key>
+	<integer>0</integer>
+	<key>Talk Smack</key>
+	<integer>0</integer>
+	<key>Urinate Line</key>
+	<integer>0</integer>
+</dict>
+</plist>

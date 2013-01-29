@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Back Flip</key>
+	<integer>500</integer>
+	<key>Double Back</key>
+	<integer>1500</integer>
+	<key>Double Front</key>
+	<integer>1500</integer>
+	<key>Front Flip</key>
+	<integer>500</integer>
+	<key>Lincoln Loop</key>
+	<integer>1000</integer>
+	<key>Misty 5</key>
+	<integer>2000</integer>
+	<key>Misty 7</key>
+	<integer>1500</integer>
+</dict>
+</plist>

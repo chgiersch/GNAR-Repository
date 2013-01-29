@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Anvil Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>400</integer>
+		<key>Lo</key>
+		<integer>750</integer>
+		<key>Med</key>
+		<integer>500</integer>
+		<key>Description</key>
+		<string>      This route provides a nice roll over and drop on the in-run, a wide sloping platform for take-off, and a landing that requires a good stick to be ridden successfully. At low snow levels, the air is dramatically bigger because of several cliff bands below that you must clear. The following description assumes that these cliff bands are at least partially covered. 
+      From JT&apos;s, procede left over a fall line rollover, and jump down 2 to 5 feet onto the top of Anvil Rock, which slopes downward. Little speed is needed (unless it is done in low snow) and the best trajectory is fall line off the center of the rock. Land on your feet and run it out into the bowl.</string>
+		<key>Difficulty</key>
+		<string>Low to Medium snow, 7-8. 
+High snow, 4.</string>
+		<key>Hero</key>
+		<string>Medium, the line looks much steeper and the air much bigger when you are on it.</string>
+		<key>Fun</key>
+		<string>* *</string>
+	</dict>
+	<key>Broken Back</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>500</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>JT&apos;s</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>650</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Mini Triple</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>650</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>No Way Out</key>
+	<dict/>
+	<key>Peter Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>750</integer>
+		<key>Lo</key>
+		<integer>750</integer>
+		<key>Med</key>
+		<integer>750</integer>
+	</dict>
+	<key>Rock Maze</key>
+	<dict>
+		<key>Hi</key>
+		<integer>200</integer>
+		<key>Lo</key>
+		<integer>500</integer>
+		<key>Med</key>
+		<integer>300</integer>
+	</dict>
+	<key>The Gate</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>750</integer>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>The Governor</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>The Triple</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<string>850</string>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Upper Chair Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>400</integer>
+		<key>Lo</key>
+		<integer>400</integer>
+		<key>Med</key>
+		<integer>400</integer>
+	</dict>
+</dict>
+</plist>

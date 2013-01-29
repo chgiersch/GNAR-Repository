@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Box Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<integer>750</integer>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>Egerbretson's</key>
+	<dict>
+		<key>Hi</key>
+		<integer>800</integer>
+		<key>Lo</key>
+		<integer>1000</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Hatchett Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Icefall</key>
+	<dict>
+		<key>Hi</key>
+		<integer>450</integer>
+		<key>Lo</key>
+		<integer>900</integer>
+		<key>Med</key>
+		<integer>550</integer>
+	</dict>
+	<key>LS Variation</key>
+	<dict>
+		<key>Hi</key>
+		<integer>600</integer>
+		<key>Lo</key>
+		<integer>600</integer>
+		<key>Med</key>
+		<integer>600</integer>
+	</dict>
+	<key>Main Air</key>
+	<dict>
+		<key>Hi</key>
+		<integer>950</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>950</integer>
+	</dict>
+	<key>Main Knuckle</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Middle Knuckle</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1050</integer>
+		<key>Lo</key>
+		<integer>1050</integer>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>The Crossover</key>
+	<dict>
+		<key>Hi</key>
+		<integer>750</integer>
+		<key>Lo</key>
+		<integer>900</integer>
+		<key>Med</key>
+		<integer>750</integer>
+	</dict>
+</dict>
+</plist>

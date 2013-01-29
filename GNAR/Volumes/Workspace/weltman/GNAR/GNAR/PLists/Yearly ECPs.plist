@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Backwards Ski</key>
+	<integer>7000</integer>
+	<key>Blue's Diet</key>
+	<integer>30000</integer>
+	<key>Blue's Enduro</key>
+	<integer>10000</integer>
+	<key>Cushing Pond</key>
+	<integer>8000</integer>
+	<key>Debbie Dutton</key>
+	<integer>15000</integer>
+	<key>Employee Housing</key>
+	<integer>20000</integer>
+	<key>Enchanted Forest Gnome</key>
+	<integer>1000000</integer>
+	<key>Funitel BJ</key>
+	<integer>15000</integer>
+	<key>Hot Tub</key>
+	<integer>10000</integer>
+	<key>Kiss Burt</key>
+	<integer>10000</integer>
+	<key>Kiss Schmidt</key>
+	<integer>10000</integer>
+	<key>Lee Dooby</key>
+	<integer>10000</integer>
+	<key>Lost and Found</key>
+	<integer>10000</integer>
+	<key>Mom Line</key>
+	<integer>7000</integer>
+	<key>Mono Skiing</key>
+	<integer>15000</integer>
+	<key>Pass Picture</key>
+	<integer>10000</integer>
+	<key>Postman Larry</key>
+	<integer>10000</integer>
+	<key>Sticker Art</key>
+	<integer>10000</integer>
+	<key>Tom Day</key>
+	<integer>8000</integer>
+</dict>
+</plist>

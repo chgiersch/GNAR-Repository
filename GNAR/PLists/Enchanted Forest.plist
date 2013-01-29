@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Adrenaline Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>150</integer>
+		<key>Lo</key>
+		<integer>600</integer>
+		<key>Med</key>
+		<integer>400</integer>
+	</dict>
+	<key>Adrenaline Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>Four</key>
+	<dict>
+		<key>Hi</key>
+		<integer>200</integer>
+		<key>Lo</key>
+		<integer>400</integer>
+		<key>Med</key>
+		<integer>350</integer>
+	</dict>
+	<key>Ice Goddess</key>
+	<dict>
+		<key>Hi</key>
+		<integer>350</integer>
+		<key>Lo</key>
+		<integer>350</integer>
+		<key>Med</key>
+		<integer>350</integer>
+	</dict>
+	<key>One</key>
+	<dict>
+		<key>Hi</key>
+		<integer>350</integer>
+		<key>Lo</key>
+		<integer>550</integer>
+		<key>Med</key>
+		<integer>350</integer>
+	</dict>
+	<key>Right to Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>50</integer>
+		<key>Lo</key>
+		<integer>450</integer>
+		<key>Med</key>
+		<integer>150</integer>
+	</dict>
+	<key>Shotgun Proper</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Snag Cliff</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Stair Stepper</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Teet</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>950</integer>
+	</dict>
+	<key>The Moon</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>The Pillows</key>
+	<dict>
+		<key>Hi</key>
+		<integer>100</integer>
+		<key>Lo</key>
+		<integer>300</integer>
+		<key>Med</key>
+		<integer>200</integer>
+	</dict>
+	<key>Three</key>
+	<dict>
+		<key>Hi</key>
+		<integer>350</integer>
+		<key>Lo</key>
+		<integer>550</integer>
+		<key>Med</key>
+		<integer>350</integer>
+	</dict>
+	<key>Triple Drop</key>
+	<dict>
+		<key>Hi</key>
+		<integer>450</integer>
+		<key>Lo</key>
+		<integer>650</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Two</key>
+	<dict>
+		<key>Hi</key>
+		<integer>400</integer>
+		<key>Lo</key>
+		<integer>550</integer>
+		<key>Med</key>
+		<integer>400</integer>
+	</dict>
+</dict>
+</plist>

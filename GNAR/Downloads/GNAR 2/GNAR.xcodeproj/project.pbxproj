@@ -1,0 +1,539 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0540457B1674057900C8EC28 /* MainTabController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0540457A1674057900C8EC28 /* MainTabController.m */; };
+		0540457F1674069F00C8EC28 /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0540457E1674069F00C8EC28 /* AddViewController.m */; };
+		05404582167408F300C8EC28 /* AddDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05404581167408F300C8EC28 /* AddDetailViewController.m */; };
+		0540458916740C3A00C8EC28 /* ScoresViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0540458816740C3A00C8EC28 /* ScoresViewController.m */; };
+		054045BE1674182400C8EC28 /* Cornice II Bowl.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045AE1674182400C8EC28 /* Cornice II Bowl.plist */; };
+		054045BF1674182400C8EC28 /* Daily ECPs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045AF1674182400C8EC28 /* Daily ECPs.plist */; };
+		054045C01674182400C8EC28 /* Eagle's Nest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B01674182400C8EC28 /* Eagle's Nest.plist */; };
+		054045C11674182400C8EC28 /* Enchanted Forest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B11674182400C8EC28 /* Enchanted Forest.plist */; };
+		054045C21674182400C8EC28 /* Fingers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B21674182400C8EC28 /* Fingers.plist */; };
+		054045C31674182400C8EC28 /* Light Towers-Headwall.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B31674182400C8EC28 /* Light Towers-Headwall.plist */; };
+		054045C41674182400C8EC28 /* Line Worths.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B41674182400C8EC28 /* Line Worths.plist */; };
+		054045C51674182400C8EC28 /* Mainline Pocket.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B51674182400C8EC28 /* Mainline Pocket.plist */; };
+		054045C61674182400C8EC28 /* Olympic Lady.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B61674182400C8EC28 /* Olympic Lady.plist */; };
+		054045C71674182400C8EC28 /* Penalties.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B71674182400C8EC28 /* Penalties.plist */; };
+		054045C81674182400C8EC28 /* The Nose.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B81674182400C8EC28 /* The Nose.plist */; };
+		054045C91674182400C8EC28 /* The Palisades.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045B91674182400C8EC28 /* The Palisades.plist */; };
+		054045CA1674182400C8EC28 /* Trick Bonuses.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045BA1674182400C8EC28 /* Trick Bonuses.plist */; };
+		054045CB1674182400C8EC28 /* Unlimited ECPs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045BB1674182400C8EC28 /* Unlimited ECPs.plist */; };
+		054045CC1674182400C8EC28 /* West Side KT22.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045BC1674182400C8EC28 /* West Side KT22.plist */; };
+		054045CD1674182400C8EC28 /* Yearly ECPs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 054045BD1674182400C8EC28 /* Yearly ECPs.plist */; };
+		05655C1416779D9D00E35763 /* Inverted.plist in Resources */ = {isa = PBXBuildFile; fileRef = 05655C1216779D9D00E35763 /* Inverted.plist */; };
+		05655C181677A00C00E35763 /* LinesDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05655C171677A00C00E35763 /* LinesDetailViewController.m */; };
+		056FC662167055520026F9CB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 056FC661167055520026F9CB /* UIKit.framework */; };
+		056FC664167055520026F9CB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 056FC663167055520026F9CB /* Foundation.framework */; };
+		056FC666167055520026F9CB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 056FC665167055520026F9CB /* CoreGraphics.framework */; };
+		056FC66C167055520026F9CB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 056FC66A167055520026F9CB /* InfoPlist.strings */; };
+		056FC66E167055520026F9CB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC66D167055520026F9CB /* main.m */; };
+		056FC672167055520026F9CB /* MADAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC671167055520026F9CB /* MADAppDelegate.m */; };
+		056FC675167055530026F9CB /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 056FC673167055530026F9CB /* MainStoryboard.storyboard */; };
+		056FC678167055530026F9CB /* MADFirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC677167055530026F9CB /* MADFirstViewController.m */; };
+		056FC67A167055530026F9CB /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = 056FC679167055530026F9CB /* first.png */; };
+		056FC67C167055530026F9CB /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 056FC67B167055530026F9CB /* first@2x.png */; };
+		056FC67F167055530026F9CB /* MADSecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC67E167055530026F9CB /* MADSecondViewController.m */; };
+		056FC681167055530026F9CB /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = 056FC680167055530026F9CB /* second.png */; };
+		056FC683167055530026F9CB /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 056FC682167055530026F9CB /* second@2x.png */; };
+		056FC68B1670592C0026F9CB /* MainNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC68A1670592C0026F9CB /* MainNavigationController.m */; };
+		056FC68E1670596F0026F9CB /* GnarScore.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC68D1670596F0026F9CB /* GnarScore.m */; };
+		056FC69116705FEF0026F9CB /* ExtraPoints.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC69016705FEF0026F9CB /* ExtraPoints.m */; };
+		056FC694167060C20026F9CB /* LineWorth.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC693167060C20026F9CB /* LineWorth.m */; };
+		056FC697167062400026F9CB /* Game.m in Sources */ = {isa = PBXBuildFile; fileRef = 056FC696167062400026F9CB /* Game.m */; };
+		05770ED7167A425800F85889 /* MapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 05770ED6167A425800F85889 /* MapViewController.m */; };
+		059ED3D3167693BA006294FC /* gnar_title_main.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 059ED3D2167693BA006294FC /* gnar_title_main.jpeg */; };
+		059ED3EC1676B42B006294FC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 059ED3EB1676B42B006294FC /* MapKit.framework */; };
+		059ED3EE1676B4CA006294FC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 059ED3ED1676B4CA006294FC /* CoreLocation.framework */; };
+		059ED3F01676B7FF006294FC /* AlmonteSnow.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 059ED3EF1676B7FF006294FC /* AlmonteSnow.ttf */; };
+		0F895BF4167A9B870039559A /* gnar_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BF3167A9B870039559A /* gnar_icon.png */; };
+		0F895BF7167A9B8B0039559A /* gnar_icon114.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BF6167A9B8B0039559A /* gnar_icon114.png */; };
+		0F895BF9167A9BA00039559A /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BF8167A9BA00039559A /* Default.png */; };
+		0F895BFB167A9BA60039559A /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BFA167A9BA60039559A /* Default@2x.png */; };
+		0F895BFD167A9BA80039559A /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BFC167A9BA80039559A /* Default-568h@2x.png */; };
+		0F895C00167A9F5A0039559A /* Spins.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BFE167A9F5A0039559A /* Spins.plist */; };
+		0F895C01167A9F5A0039559A /* Tricks.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F895BFF167A9F5A0039559A /* Tricks.plist */; };
+		0F895C03167A9F6E0039559A /* Grabs.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0F895C02167A9F6E0039559A /* Grabs.plist */; };
+		0F895C0A167AB57C0039559A /* login-with-facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F895C09167AB57C0039559A /* login-with-facebook.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		054045791674057900C8EC28 /* MainTabController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabController.h; sourceTree = "<group>"; };
+		0540457A1674057900C8EC28 /* MainTabController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabController.m; sourceTree = "<group>"; };
+		0540457D1674069F00C8EC28 /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
+		0540457E1674069F00C8EC28 /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddViewController.m; sourceTree = "<group>"; };
+		05404580167408F300C8EC28 /* AddDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddDetailViewController.h; sourceTree = "<group>"; };
+		05404581167408F300C8EC28 /* AddDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddDetailViewController.m; sourceTree = "<group>"; };
+		0540458716740C3A00C8EC28 /* ScoresViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ScoresViewController.h; path = ../ScoresViewController.h; sourceTree = "<group>"; };
+		0540458816740C3A00C8EC28 /* ScoresViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ScoresViewController.m; path = ../ScoresViewController.m; sourceTree = "<group>"; };
+		054045AE1674182400C8EC28 /* Cornice II Bowl.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Cornice II Bowl.plist"; sourceTree = "<group>"; };
+		054045AF1674182400C8EC28 /* Daily ECPs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Daily ECPs.plist"; sourceTree = "<group>"; };
+		054045B01674182400C8EC28 /* Eagle's Nest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Eagle's Nest.plist"; sourceTree = "<group>"; };
+		054045B11674182400C8EC28 /* Enchanted Forest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Enchanted Forest.plist"; sourceTree = "<group>"; };
+		054045B21674182400C8EC28 /* Fingers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Fingers.plist; sourceTree = "<group>"; };
+		054045B31674182400C8EC28 /* Light Towers-Headwall.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Light Towers-Headwall.plist"; sourceTree = "<group>"; };
+		054045B41674182400C8EC28 /* Line Worths.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Line Worths.plist"; sourceTree = "<group>"; };
+		054045B51674182400C8EC28 /* Mainline Pocket.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Mainline Pocket.plist"; sourceTree = "<group>"; };
+		054045B61674182400C8EC28 /* Olympic Lady.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Olympic Lady.plist"; sourceTree = "<group>"; };
+		054045B71674182400C8EC28 /* Penalties.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Penalties.plist; sourceTree = "<group>"; };
+		054045B81674182400C8EC28 /* The Nose.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "The Nose.plist"; sourceTree = "<group>"; };
+		054045B91674182400C8EC28 /* The Palisades.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "The Palisades.plist"; sourceTree = "<group>"; };
+		054045BA1674182400C8EC28 /* Trick Bonuses.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Trick Bonuses.plist"; sourceTree = "<group>"; };
+		054045BB1674182400C8EC28 /* Unlimited ECPs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Unlimited ECPs.plist"; sourceTree = "<group>"; };
+		054045BC1674182400C8EC28 /* West Side KT22.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "West Side KT22.plist"; sourceTree = "<group>"; };
+		054045BD1674182400C8EC28 /* Yearly ECPs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Yearly ECPs.plist"; sourceTree = "<group>"; };
+		05655C1216779D9D00E35763 /* Inverted.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Inverted.plist; sourceTree = "<group>"; };
+		05655C161677A00C00E35763 /* LinesDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LinesDetailViewController.h; sourceTree = "<group>"; };
+		05655C171677A00C00E35763 /* LinesDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LinesDetailViewController.m; sourceTree = "<group>"; };
+		056FC65D167055520026F9CB /* GNAR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GNAR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		056FC661167055520026F9CB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		056FC663167055520026F9CB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		056FC665167055520026F9CB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		056FC669167055520026F9CB /* GNAR-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GNAR-Info.plist"; sourceTree = "<group>"; };
+		056FC66B167055520026F9CB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		056FC66D167055520026F9CB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		056FC66F167055520026F9CB /* GNAR-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GNAR-Prefix.pch"; sourceTree = "<group>"; };
+		056FC670167055520026F9CB /* MADAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MADAppDelegate.h; sourceTree = "<group>"; };
+		056FC671167055520026F9CB /* MADAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MADAppDelegate.m; sourceTree = "<group>"; };
+		056FC674167055530026F9CB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
+		056FC676167055530026F9CB /* MADFirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MADFirstViewController.h; sourceTree = "<group>"; };
+		056FC677167055530026F9CB /* MADFirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MADFirstViewController.m; sourceTree = "<group>"; };
+		056FC679167055530026F9CB /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		056FC67B167055530026F9CB /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		056FC67D167055530026F9CB /* MADSecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MADSecondViewController.h; sourceTree = "<group>"; };
+		056FC67E167055530026F9CB /* MADSecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MADSecondViewController.m; sourceTree = "<group>"; };
+		056FC680167055530026F9CB /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		056FC682167055530026F9CB /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		056FC6891670592C0026F9CB /* MainNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainNavigationController.h; sourceTree = "<group>"; };
+		056FC68A1670592C0026F9CB /* MainNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainNavigationController.m; sourceTree = "<group>"; };
+		056FC68C1670596F0026F9CB /* GnarScore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GnarScore.h; sourceTree = "<group>"; };
+		056FC68D1670596F0026F9CB /* GnarScore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GnarScore.m; sourceTree = "<group>"; };
+		056FC68F16705FEF0026F9CB /* ExtraPoints.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExtraPoints.h; sourceTree = "<group>"; };
+		056FC69016705FEF0026F9CB /* ExtraPoints.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExtraPoints.m; sourceTree = "<group>"; };
+		056FC692167060C20026F9CB /* LineWorth.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LineWorth.h; sourceTree = "<group>"; };
+		056FC693167060C20026F9CB /* LineWorth.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LineWorth.m; sourceTree = "<group>"; };
+		056FC695167062400026F9CB /* Game.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Game.h; sourceTree = "<group>"; };
+		056FC696167062400026F9CB /* Game.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Game.m; sourceTree = "<group>"; };
+		05770ED5167A425800F85889 /* MapViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapViewController.h; sourceTree = "<group>"; };
+		05770ED6167A425800F85889 /* MapViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapViewController.m; sourceTree = "<group>"; };
+		059ED3D2167693BA006294FC /* gnar_title_main.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gnar_title_main.jpeg; sourceTree = "<group>"; };
+		059ED3EB1676B42B006294FC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		059ED3ED1676B4CA006294FC /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		059ED3EF1676B7FF006294FC /* AlmonteSnow.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AlmonteSnow.ttf; path = PLists/AlmonteSnow.ttf; sourceTree = "<group>"; };
+		0F895BF3167A9B870039559A /* gnar_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gnar_icon.png; path = ../gnar_icon.png; sourceTree = "<group>"; };
+		0F895BF6167A9B8B0039559A /* gnar_icon114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = gnar_icon114.png; path = ../gnar_icon114.png; sourceTree = "<group>"; };
+		0F895BF8167A9BA00039559A /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
+		0F895BFA167A9BA60039559A /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../Default@2x.png"; sourceTree = "<group>"; };
+		0F895BFC167A9BA80039559A /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+		0F895BFE167A9F5A0039559A /* Spins.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Spins.plist; path = "../../../../Google Drive/iOS_Project/PLists/Spins.plist"; sourceTree = "<group>"; };
+		0F895BFF167A9F5A0039559A /* Tricks.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Tricks.plist; path = "../../../../Google Drive/iOS_Project/PLists/Tricks.plist"; sourceTree = "<group>"; };
+		0F895C02167A9F6E0039559A /* Grabs.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Grabs.plist; path = "../../../../Google Drive/iOS_Project/PLists/Grabs.plist"; sourceTree = "<group>"; };
+		0F895C09167AB57C0039559A /* login-with-facebook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "login-with-facebook.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		056FC65A167055520026F9CB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				059ED3EC1676B42B006294FC /* MapKit.framework in Frameworks */,
+				059ED3EE1676B4CA006294FC /* CoreLocation.framework in Frameworks */,
+				056FC662167055520026F9CB /* UIKit.framework in Frameworks */,
+				056FC664167055520026F9CB /* Foundation.framework in Frameworks */,
+				056FC666167055520026F9CB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		054045AD1674182400C8EC28 /* PLists */ = {
+			isa = PBXGroup;
+			children = (
+				054045B41674182400C8EC28 /* Line Worths.plist */,
+				054045AE1674182400C8EC28 /* Cornice II Bowl.plist */,
+				054045B01674182400C8EC28 /* Eagle's Nest.plist */,
+				054045B11674182400C8EC28 /* Enchanted Forest.plist */,
+				054045B21674182400C8EC28 /* Fingers.plist */,
+				054045B31674182400C8EC28 /* Light Towers-Headwall.plist */,
+				054045B51674182400C8EC28 /* Mainline Pocket.plist */,
+				054045B61674182400C8EC28 /* Olympic Lady.plist */,
+				054045B81674182400C8EC28 /* The Nose.plist */,
+				054045B91674182400C8EC28 /* The Palisades.plist */,
+				054045BC1674182400C8EC28 /* West Side KT22.plist */,
+				054045AF1674182400C8EC28 /* Daily ECPs.plist */,
+				054045BD1674182400C8EC28 /* Yearly ECPs.plist */,
+				054045BB1674182400C8EC28 /* Unlimited ECPs.plist */,
+				054045BA1674182400C8EC28 /* Trick Bonuses.plist */,
+				0F895BFE167A9F5A0039559A /* Spins.plist */,
+				0F895C02167A9F6E0039559A /* Grabs.plist */,
+				0F895BFF167A9F5A0039559A /* Tricks.plist */,
+				05655C1216779D9D00E35763 /* Inverted.plist */,
+				054045B71674182400C8EC28 /* Penalties.plist */,
+			);
+			path = PLists;
+			sourceTree = "<group>";
+		};
+		056FC652167055520026F9CB = {
+			isa = PBXGroup;
+			children = (
+				059ED3ED1676B4CA006294FC /* CoreLocation.framework */,
+				059ED3EB1676B42B006294FC /* MapKit.framework */,
+				056FC667167055520026F9CB /* GNAR */,
+				056FC660167055520026F9CB /* Frameworks */,
+				056FC65E167055520026F9CB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		056FC65E167055520026F9CB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				056FC65D167055520026F9CB /* GNAR.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		056FC660167055520026F9CB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				056FC661167055520026F9CB /* UIKit.framework */,
+				056FC663167055520026F9CB /* Foundation.framework */,
+				056FC665167055520026F9CB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		056FC667167055520026F9CB /* GNAR */ = {
+			isa = PBXGroup;
+			children = (
+				056FC670167055520026F9CB /* MADAppDelegate.h */,
+				056FC671167055520026F9CB /* MADAppDelegate.m */,
+				056FC673167055530026F9CB /* MainStoryboard.storyboard */,
+				0F895C05167AABDF0039559A /* Main */,
+				0F895C06167AABFB0039559A /* Add */,
+				0F895C04167AAB600039559A /* Game and Score Classes */,
+				056FC676167055530026F9CB /* MADFirstViewController.h */,
+				056FC677167055530026F9CB /* MADFirstViewController.m */,
+				056FC67D167055530026F9CB /* MADSecondViewController.h */,
+				056FC67E167055530026F9CB /* MADSecondViewController.m */,
+				0540458716740C3A00C8EC28 /* ScoresViewController.h */,
+				0540458816740C3A00C8EC28 /* ScoresViewController.m */,
+				05655C161677A00C00E35763 /* LinesDetailViewController.h */,
+				05655C171677A00C00E35763 /* LinesDetailViewController.m */,
+				05770ED5167A425800F85889 /* MapViewController.h */,
+				05770ED6167A425800F85889 /* MapViewController.m */,
+				056FC668167055520026F9CB /* Supporting Files */,
+			);
+			path = GNAR;
+			sourceTree = "<group>";
+		};
+		056FC668167055520026F9CB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				059ED3EF1676B7FF006294FC /* AlmonteSnow.ttf */,
+				054045AD1674182400C8EC28 /* PLists */,
+				056FC669167055520026F9CB /* GNAR-Info.plist */,
+				056FC66A167055520026F9CB /* InfoPlist.strings */,
+				0F895C07167AAE5C0039559A /* Images */,
+				0F895C08167AAE9E0039559A /* Other Images */,
+				056FC66D167055520026F9CB /* main.m */,
+				056FC66F167055520026F9CB /* GNAR-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0F895C04167AAB600039559A /* Game and Score Classes */ = {
+			isa = PBXGroup;
+			children = (
+				056FC695167062400026F9CB /* Game.h */,
+				056FC696167062400026F9CB /* Game.m */,
+				056FC68C1670596F0026F9CB /* GnarScore.h */,
+				056FC68D1670596F0026F9CB /* GnarScore.m */,
+				056FC68F16705FEF0026F9CB /* ExtraPoints.h */,
+				056FC69016705FEF0026F9CB /* ExtraPoints.m */,
+				056FC692167060C20026F9CB /* LineWorth.h */,
+				056FC693167060C20026F9CB /* LineWorth.m */,
+			);
+			name = "Game and Score Classes";
+			sourceTree = "<group>";
+		};
+		0F895C05167AABDF0039559A /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				056FC6891670592C0026F9CB /* MainNavigationController.h */,
+				056FC68A1670592C0026F9CB /* MainNavigationController.m */,
+				054045791674057900C8EC28 /* MainTabController.h */,
+				0540457A1674057900C8EC28 /* MainTabController.m */,
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		0F895C06167AABFB0039559A /* Add */ = {
+			isa = PBXGroup;
+			children = (
+				05404580167408F300C8EC28 /* AddDetailViewController.h */,
+				05404581167408F300C8EC28 /* AddDetailViewController.m */,
+				0540457D1674069F00C8EC28 /* AddViewController.h */,
+				0540457E1674069F00C8EC28 /* AddViewController.m */,
+			);
+			name = Add;
+			sourceTree = "<group>";
+		};
+		0F895C07167AAE5C0039559A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				0F895C09167AB57C0039559A /* login-with-facebook.png */,
+				0F895BFC167A9BA80039559A /* Default-568h@2x.png */,
+				0F895BFA167A9BA60039559A /* Default@2x.png */,
+				0F895BF8167A9BA00039559A /* Default.png */,
+				059ED3D2167693BA006294FC /* gnar_title_main.jpeg */,
+				0F895BF6167A9B8B0039559A /* gnar_icon114.png */,
+				0F895BF3167A9B870039559A /* gnar_icon.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		0F895C08167AAE9E0039559A /* Other Images */ = {
+			isa = PBXGroup;
+			children = (
+				056FC679167055530026F9CB /* first.png */,
+				056FC67B167055530026F9CB /* first@2x.png */,
+				056FC680167055530026F9CB /* second.png */,
+				056FC682167055530026F9CB /* second@2x.png */,
+			);
+			name = "Other Images";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		056FC65C167055520026F9CB /* GNAR */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 056FC686167055530026F9CB /* Build configuration list for PBXNativeTarget "GNAR" */;
+			buildPhases = (
+				056FC659167055520026F9CB /* Sources */,
+				056FC65A167055520026F9CB /* Frameworks */,
+				056FC65B167055520026F9CB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GNAR;
+			productName = GNAR;
+			productReference = 056FC65D167055520026F9CB /* GNAR.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		056FC654167055520026F9CB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = MAD;
+				LastUpgradeCheck = 0430;
+			};
+			buildConfigurationList = 056FC657167055520026F9CB /* Build configuration list for PBXProject "GNAR" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 056FC652167055520026F9CB;
+			productRefGroup = 056FC65E167055520026F9CB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				056FC65C167055520026F9CB /* GNAR */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		056FC65B167055520026F9CB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				056FC66C167055520026F9CB /* InfoPlist.strings in Resources */,
+				056FC675167055530026F9CB /* MainStoryboard.storyboard in Resources */,
+				056FC67A167055530026F9CB /* first.png in Resources */,
+				056FC67C167055530026F9CB /* first@2x.png in Resources */,
+				056FC681167055530026F9CB /* second.png in Resources */,
+				056FC683167055530026F9CB /* second@2x.png in Resources */,
+				054045BE1674182400C8EC28 /* Cornice II Bowl.plist in Resources */,
+				054045BF1674182400C8EC28 /* Daily ECPs.plist in Resources */,
+				054045C01674182400C8EC28 /* Eagle's Nest.plist in Resources */,
+				054045C11674182400C8EC28 /* Enchanted Forest.plist in Resources */,
+				054045C21674182400C8EC28 /* Fingers.plist in Resources */,
+				054045C31674182400C8EC28 /* Light Towers-Headwall.plist in Resources */,
+				054045C41674182400C8EC28 /* Line Worths.plist in Resources */,
+				054045C51674182400C8EC28 /* Mainline Pocket.plist in Resources */,
+				054045C61674182400C8EC28 /* Olympic Lady.plist in Resources */,
+				054045C71674182400C8EC28 /* Penalties.plist in Resources */,
+				054045C81674182400C8EC28 /* The Nose.plist in Resources */,
+				054045C91674182400C8EC28 /* The Palisades.plist in Resources */,
+				054045CA1674182400C8EC28 /* Trick Bonuses.plist in Resources */,
+				054045CB1674182400C8EC28 /* Unlimited ECPs.plist in Resources */,
+				054045CC1674182400C8EC28 /* West Side KT22.plist in Resources */,
+				054045CD1674182400C8EC28 /* Yearly ECPs.plist in Resources */,
+				059ED3D3167693BA006294FC /* gnar_title_main.jpeg in Resources */,
+				059ED3F01676B7FF006294FC /* AlmonteSnow.ttf in Resources */,
+				05655C1416779D9D00E35763 /* Inverted.plist in Resources */,
+				0F895BF4167A9B870039559A /* gnar_icon.png in Resources */,
+				0F895BF7167A9B8B0039559A /* gnar_icon114.png in Resources */,
+				0F895BF9167A9BA00039559A /* Default.png in Resources */,
+				0F895BFB167A9BA60039559A /* Default@2x.png in Resources */,
+				0F895BFD167A9BA80039559A /* Default-568h@2x.png in Resources */,
+				0F895C00167A9F5A0039559A /* Spins.plist in Resources */,
+				0F895C01167A9F5A0039559A /* Tricks.plist in Resources */,
+				0F895C03167A9F6E0039559A /* Grabs.plist in Resources */,
+				0F895C0A167AB57C0039559A /* login-with-facebook.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		056FC659167055520026F9CB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				056FC66E167055520026F9CB /* main.m in Sources */,
+				056FC672167055520026F9CB /* MADAppDelegate.m in Sources */,
+				056FC678167055530026F9CB /* MADFirstViewController.m in Sources */,
+				056FC67F167055530026F9CB /* MADSecondViewController.m in Sources */,
+				056FC68B1670592C0026F9CB /* MainNavigationController.m in Sources */,
+				056FC68E1670596F0026F9CB /* GnarScore.m in Sources */,
+				056FC69116705FEF0026F9CB /* ExtraPoints.m in Sources */,
+				056FC694167060C20026F9CB /* LineWorth.m in Sources */,
+				056FC697167062400026F9CB /* Game.m in Sources */,
+				0540457B1674057900C8EC28 /* MainTabController.m in Sources */,
+				0540457F1674069F00C8EC28 /* AddViewController.m in Sources */,
+				05404582167408F300C8EC28 /* AddDetailViewController.m in Sources */,
+				0540458916740C3A00C8EC28 /* ScoresViewController.m in Sources */,
+				05655C181677A00C00E35763 /* LinesDetailViewController.m in Sources */,
+				05770ED7167A425800F85889 /* MapViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		056FC66A167055520026F9CB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				056FC66B167055520026F9CB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		056FC673167055530026F9CB /* MainStoryboard.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				056FC674167055530026F9CB /* en */,
+			);
+			name = MainStoryboard.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		056FC684167055530026F9CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		056FC685167055530026F9CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		056FC687167055530026F9CB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GNAR/GNAR-Prefix.pch";
+				INFOPLIST_FILE = "GNAR/GNAR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		056FC688167055530026F9CB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GNAR/GNAR-Prefix.pch";
+				INFOPLIST_FILE = "GNAR/GNAR-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		056FC657167055520026F9CB /* Build configuration list for PBXProject "GNAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				056FC684167055530026F9CB /* Debug */,
+				056FC685167055530026F9CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		056FC686167055530026F9CB /* Build configuration list for PBXNativeTarget "GNAR" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				056FC687167055530026F9CB /* Debug */,
+				056FC688167055530026F9CB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 056FC654167055520026F9CB /* Project object */;
+}

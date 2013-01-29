@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bigger Balls</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>550</integer>
+	</dict>
+	<key>Cartwheel</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>No Wayes</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>The Portal</key>
+	<dict>
+		<key>Hi</key>
+		<integer>300</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+</dict>
+</plist>

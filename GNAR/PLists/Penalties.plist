@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Belly Flop</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BF</string>
+		<key>Description</key>
+		<string>Land on belly.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Binding Butt</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BB</string>
+		<key>Description</key>
+		<string>Smash butt on binding during landing.</string>
+		<key>Points</key>
+		<string>-300</string>
+	</dict>
+	<key>Camel Back</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CK</string>
+		<key>Description</key>
+		<string>Wear a Camelback.</string>
+		<key>Points</key>
+		<string>-1500</string>
+	</dict>
+	<key>Cheating</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CC</string>
+		<key>Description</key>
+		<string>Caught cheating by other players.</string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Day Ender</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>DE</string>
+		<key>Description</key>
+		<string>Day ending fall or injury.</string>
+		<key>Points</key>
+		<string>-3000</string>
+	</dict>
+	<key>Fanny Pack</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FP</string>
+		<key>Description</key>
+		<string>Wear a fanny pack.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Fear of Heights</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FH</string>
+		<key>Description</key>
+		<string>Lowering sissy bar.</string>
+		<key>Points</key>
+		<string>-500</string>
+	</dict>
+	<key>Flailing Lagger</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FL</string>
+		<key>Description</key>
+		<string>Crash or equivalent prevents you from keeping up with the group.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Forget Claim</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FC</string>
+		<key>Description</key>
+		<string>Caught passing Extreme Benches without announcing your day's total.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Gaper Gap</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>GG</string>
+		<key>Description</key>
+		<string>Caught with gap between hat/helmet and goggles.</string>
+		<key>Points</key>
+		<string>-500</string>
+	</dict>
+	<key>Get Poached</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>GP</string>
+		<key>Description</key>
+		<string>Land on belly.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Goggles and Hat</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>GOH</string>
+		<key>Description</key>
+		<string>Lose both goggles and hat in crash.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Hip check</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HC</string>
+		<key>Description</key>
+		<string>Hip check.</string>
+		<key>Points</key>
+		<string>-50</string>
+	</dict>
+	<key>Hot Tub</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HT</string>
+		<key>Description</key>
+		<string>Big crater of hip check &gt;3 seconds.</string>
+		<key>Points</key>
+		<string>-100</string>
+	</dict>
+	<key>Huck Neck</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HN</string>
+		<key>Description</key>
+		<string>Whiplash sustained while skiing designated line.</string>
+		<key>Points</key>
+		<string>-500</string>
+	</dict>
+	<key>Jellyfish</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>JF</string>
+		<key>Description</key>
+		<string>Totally limp and unconcious body sliding down hill.</string>
+		<key>Points</key>
+		<string>-10000</string>
+	</dict>
+	<key>KT Cut</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>Kc</string>
+		<key>Description</key>
+		<string>Cutting the KT line.</string>
+		<key>Points</key>
+		<string>-2500</string>
+	</dict>
+	<key>Knee to Face</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KF</string>
+		<key>Description</key>
+		<string>Knee to Face with blood.</string>
+		<key>Points</key>
+		<string>-3000</string>
+	</dict>
+	<key>Lee Dobby</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LD</string>
+		<key>Description</key>
+		<string>Lose race to Lee Dobby.</string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Line Pause</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LP</string>
+		<key>Description</key>
+		<string>Pause for more than 3 seconds in line. May be cancelled by yelling "Hey, look at me!"</string>
+		<key>Points</key>
+		<string>-50</string>
+	</dict>
+	<key>Lose 2 Skis</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>L2S</string>
+		<key>Description</key>
+		<string>Lose 2 ski in a crash.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Lose Board</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LB</string>
+		<key>Description</key>
+		<string>Lose snowboard.</string>
+		<key>Points</key>
+		<string>-3000</string>
+	</dict>
+	<key>Lose Ski</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LS</string>
+		<key>Description</key>
+		<string>Lose a ski in a crash.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Month Ender</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>ME</string>
+		<key>Description</key>
+		<string>Month ending injury.</string>
+		<key>Points</key>
+		<string>-10000</string>
+	</dict>
+	<key>Nice Patrol</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NP</string>
+		<key>Description</key>
+		<string>Get caught by patrol but they let you go.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Pectoral Stretch</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PS</string>
+		<key>Description</key>
+		<string>Major back slap.</string>
+		<key>Points</key>
+		<string>-200</string>
+	</dict>
+	<key>Punch Front</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PF</string>
+		<key>Description</key>
+		<string>Unintentional front flip after landing.</string>
+		<key>Points</key>
+		<string>-500</string>
+	</dict>
+	<key>Racer Boot</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>RB</string>
+		<key>Description</key>
+		<string>Pants rolled up so that top buckles are showing.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Ride with Chick</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>RC</string>
+		<key>Description</key>
+		<string>Riding with significant other on poweder day. </string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Scorpion</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SN</string>
+		<key>Description</key>
+		<string>Belly flop where your feet fly over your head.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Season Ender</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SE</string>
+		<key>Description</key>
+		<string>Season ending injury.</string>
+		<key>Points</key>
+		<string>0</string>
+	</dict>
+	<key>Season Pass</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SP</string>
+		<key>Description</key>
+		<string>Season Pass pulled indefinitely.</string>
+		<key>Points</key>
+		<string>-10000</string>
+	</dict>
+	<key>Snowball</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SB</string>
+		<key>Description</key>
+		<string>Tagged by snowball mid-line.</string>
+		<key>Points</key>
+		<string>-100</string>
+	</dict>
+	<key>Stabbed</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SD</string>
+		<key>Description</key>
+		<string>Stabbed by pen or pencil in pocket.</string>
+		<key>Points</key>
+		<string>-500</string>
+	</dict>
+	<key>Ticket Pulled</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TP</string>
+		<key>Description</key>
+		<string>Pass/ticket pulled.</string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Tomahawk</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TH</string>
+		<key>Description</key>
+		<string>2 full rotations in a crash.</string>
+		<key>Points</key>
+		<string>-2000</string>
+	</dict>
+	<key>Total Idiot</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TI</string>
+		<key>Description</key>
+		<string>Lose cell phone while riding.</string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Week Ender</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WE</string>
+		<key>Description</key>
+		<string>Week ending injury.</string>
+		<key>Points</key>
+		<string>-5000</string>
+	</dict>
+	<key>Weird Crash</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WC</string>
+		<key>Description</key>
+		<string>Crash that doesn't fall into any of the penalty categories.</string>
+		<key>Points</key>
+		<string>-1000</string>
+	</dict>
+	<key>Wheelie</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>WL</string>
+		<key>Description</key>
+		<string>Minor back slap.</string>
+		<key>Points</key>
+		<string>-50</string>
+	</dict>
+	<key>Yard Sale</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>YS</string>
+		<key>Description</key>
+		<string>Tamahawk leaving at least two pieces of equipment behind.</string>
+		<key>Points</key>
+		<string>-3000</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>After 3pm</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>A3</string>
+		<key>Description</key>
+		<string>Perform any line in this book after 3pm.</string>
+		<key>Points</key>
+		<integer>50</integer>
+	</dict>
+	<key>Butt Naked</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BN</string>
+		<key>Description</key>
+		<string>Complete line butt naked. If jailed, you lose your points.</string>
+		<key>Female</key>
+		<integer>10000</integer>
+		<key>Male</key>
+		<integer>5000</integer>
+		<key>Points</key>
+		<integer>5000</integer>
+	</dict>
+	<key>Cat Track Gap</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CG</string>
+		<key>Description</key>
+		<string>Gap jump a cat track.</string>
+		<key>Points</key>
+		<integer>300</integer>
+	</dict>
+	<key>Ego Claim</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>EG</string>
+		<key>Description</key>
+		<string>After skiing a designated line, go over to a group of strangers who were watching and claim, "I'm the best skier on the mountain!"</string>
+		<key>Points</key>
+		<integer>500</integer>
+	</dict>
+	<key>F. Bag</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FB</string>
+		<key>Description</key>
+		<string>Be the first person to spot someone wearing a one piece suit.</string>
+		<key>Points</key>
+		<integer>50</integer>
+	</dict>
+	<key>Fart Claim</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FC</string>
+		<key>Description</key>
+		<string>Produce smelly fart in crowded Funitel or Tram Cabin and loudly state, "That was me!"</string>
+		<key>Points</key>
+		<integer>500</integer>
+	</dict>
+	<key>First of Year</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FY</string>
+		<key>Description</key>
+		<string>The first person to ski a line in this book this year.</string>
+		<key>Points</key>
+		<integer>200</integer>
+	</dict>
+	<key>Lagger</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>LR</string>
+		<key>Description</key>
+		<string>Lag behind and hold up the group.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Old School</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>OS</string>
+		<key>Description</key>
+		<string>Successfully complete any line in this book wearing skis 215 cm or longer or an old school snowboard.</string>
+		<key>Points</key>
+		<integer>200</integer>
+	</dict>
+	<key>Pole Wacker</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PW</string>
+		<key>Description</key>
+		<string>Vigorously whack your pole above a line for at least 30 seconds.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Radness Yell</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>RY</string>
+		<key>Description</key>
+		<string>Before dropping into line, vigorously wave arms while yelling at the top of lungs: "Hey! Check me out! I'm going to rip the shit out of this!"</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Rope Air</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>RA</string>
+		<key>Description</key>
+		<string>Jump over any rope. Rope must be above ground.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Snowball</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SB</string>
+		<key>Description</key>
+		<string>Hit rider, attempting one of the designated lines, with a snowball. Rider must have pushed off.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Steal Clothes</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SC</string>
+		<key>Description</key>
+		<string>Steal the clothes of the person doing a BN and make them ride buck to base of chairlift.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Talk Smack</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TS</string>
+		<key>Description</key>
+		<string>In a serious tone, without laughting, and just prior to dropping into a designated line, tell a stranger next to you, "I'm better than you!"</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+	<key>Urinate Line</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>UL</string>
+		<key>Description</key>
+		<string>On line rated 700 or higher, stop mid-line and urinate. Must empty bladder.</string>
+		<key>Points</key>
+		<integer>0</integer>
+	</dict>
+</dict>
+</plist>

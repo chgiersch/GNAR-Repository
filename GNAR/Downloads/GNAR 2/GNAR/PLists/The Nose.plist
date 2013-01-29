@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Coleman's Alternate</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Coleman's Railroad</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>750</integer>
+	</dict>
+	<key>Coleman's Ridge</key>
+	<dict>
+		<key>Hi</key>
+		<integer>900</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Half Moon</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>550</integer>
+	</dict>
+	<key>Kt Gap</key>
+	<dict>
+		<key>Hi</key>
+		<integer>600</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>600</integer>
+	</dict>
+	<key>My Air</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+</dict>
+</plist>

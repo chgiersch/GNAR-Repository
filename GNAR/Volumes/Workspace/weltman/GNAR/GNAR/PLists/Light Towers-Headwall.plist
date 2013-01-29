@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Arc Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>500</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>Blizzard Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>300</integer>
+		<key>Lo</key>
+		<integer>650</integer>
+		<key>Med</key>
+		<integer>550</integer>
+	</dict>
+	<key>Easy In</key>
+	<dict>
+		<key>Hi</key>
+		<integer>350</integer>
+		<key>Lo</key>
+		<integer>350</integer>
+		<key>Med</key>
+		<integer>350</integer>
+	</dict>
+	<key>Gaff's Pad</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>950</integer>
+	</dict>
+	<key>Hairy Traverse</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>550</integer>
+	</dict>
+	<key>Left of Talus</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<integer>650</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Mr. Chipper</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>North Bowl Chutes</key>
+	<dict>
+		<key>Hi</key>
+		<integer>100</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>400</integer>
+	</dict>
+	<key>Sun Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>200</integer>
+		<key>Lo</key>
+		<integer>500</integer>
+		<key>Med</key>
+		<integer>400</integer>
+	</dict>
+	<key>The Shelf</key>
+	<dict>
+		<key>Hi</key>
+		<integer>600</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>Tree Air</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+</dict>
+</plist>

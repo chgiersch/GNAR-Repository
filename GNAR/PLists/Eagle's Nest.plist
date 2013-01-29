@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Air off to Right</key>
+	<dict>
+		<key>Hi</key>
+		<integer>900</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Ambrosia's Alternate</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>750</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>Center Route</key>
+	<dict>
+		<key>Hi</key>
+		<integer>900</integer>
+		<key>Lo</key>
+		<integer>1000</integer>
+		<key>Med</key>
+		<integer>1000</integer>
+	</dict>
+	<key>High Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1300</integer>
+		<key>Lo</key>
+		<integer>1300</integer>
+		<key>Med</key>
+		<integer>1300</integer>
+	</dict>
+	<key>The Shoulder</key>
+	<dict>
+		<key>Hi</key>
+		<integer>450</integer>
+		<key>Lo</key>
+		<integer>450</integer>
+		<key>Med</key>
+		<integer>450</integer>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Abdominals with Bossi</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>AB</string>
+		<key>Description</key>
+		<string>Do the exact same ab workout in the AM as John Bossi.</string>
+		<key>Points</key>
+		<integer>3000</integer>
+	</dict>
+	<key>Bra Tree</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>BT</string>
+		<key>Description</key>
+		<string>Remove underwear while seated on the Headwall lift, and succeed in tossing it onto the Bra Tree.</string>
+		<key>Points</key>
+		<integer>1000</integer>
+	</dict>
+	<key>Cook Brekie</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>CB</string>
+		<key>Description</key>
+		<string>Cook breakfast with a camping stove in the KT line on a powder day. Must go first chair.</string>
+		<key>Female</key>
+		<integer>5000</integer>
+		<key>Male</key>
+		<integer>3000</integer>
+		<key>Points</key>
+		<integer>3000</integer>
+	</dict>
+	<key>Extreme Brag</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>EB</string>
+		<key>Description</key>
+		<string>At Extreme Benches, brag to at least 5 people about how rad you got today.</string>
+		<key>Points</key>
+		<integer>1000</integer>
+	</dict>
+	<key>First KT Chair</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FK</string>
+		<key>Description</key>
+		<string>First KT Chair on a powder day.</string>
+		<key>Points</key>
+		<integer>5000</integer>
+	</dict>
+	<key>First KT Chair to Fingers</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FKF</string>
+		<key>Description</key>
+		<string>First KT Chair on a powder day &amp; do Nose to Fingers.</string>
+		<key>Points</key>
+		<integer>6000</integer>
+	</dict>
+	<key>Froot Lingerie</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>FL</string>
+		<key>Description</key>
+		<string>Froot Boot through the terrain park hitting all the jumps, wearing only women's lingerie top and panties for three runs.</string>
+		<key>Points</key>
+		<integer>500</integer>
+	</dict>
+	<key>Goggle Tan</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>GT</string>
+		<key>Description</key>
+		<string>Ask any stranger which player in your group has the darkest, most defined goggle tan. Winner gets points.</string>
+		<key>Points</key>
+		<integer>500</integer>
+	</dict>
+	<key>Headwall Wrap</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>HW</string>
+		<key>Description</key>
+		<string>Order a Thai wrap from the Headwall Cafe.</string>
+		<key>Points</key>
+		<integer>2000</integer>
+	</dict>
+	<key>KT, Headwall, Granite</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>KHG</string>
+		<key>Description</key>
+		<string>First Chair on KT, Headwall, Granite Chief all on one pawder day.</string>
+		<key>Points</key>
+		<integer>3000</integer>
+	</dict>
+	<key>Nug to McKitterick</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>NM</string>
+		<key>Description</key>
+		<string>Give Jeff McKitterick a phat nug.</string>
+		<key>Points</key>
+		<integer>1000</integer>
+	</dict>
+	<key>Pole Position</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PP</string>
+		<key>Description</key>
+		<string>Get the pole position space in the parking lot. Directly accross from Plum Jacks and closest to Tram Bldg. No Handicap spots.</string>
+		<key>Points</key>
+		<integer>2000</integer>
+	</dict>
+	<key>Pro Call Out</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>PC</string>
+		<key>Description</key>
+		<string>To any pro, yell, "Hey (name), I can't believe you're a pro. I'm totally better than you!"</string>
+		<key>Points</key>
+		<integer>500</integer>
+	</dict>
+	<key>Slasher</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SR</string>
+		<key>Description</key>
+		<string>Ride the Granie Chief List with George Theohold. George is a commonly spotted Squallywood local who starred as slasher in Hot Dog, The Movie.</string>
+		<key>Points</key>
+		<integer>2000</integer>
+	</dict>
+	<key>Surfer Steve</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>SS</string>
+		<key>Description</key>
+		<string>Ride the Granie Chief List with George Theohold. George is a commonly spotted Squallywood local who starred as slasher in Hot Dog, The Movie. Headwall Express with Surfer Steve. Steve is a diehard local who you won't be able to keep up with.</string>
+		<key>Points</key>
+		<integer>2000</integer>
+	</dict>
+	<key>Ten Bucks</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TB</string>
+		<key>Description</key>
+		<string>Give out at least 5 Red Bulls in the KT line before the lift opens. If sponsored by Red Bull, must also give out $2 with each can.</string>
+		<key>Points</key>
+		<integer>1500</integer>
+	</dict>
+	<key>Tram Announcment</key>
+	<dict>
+		<key>Abbreviation</key>
+		<string>TA</string>
+		<key>Description</key>
+		<string>Get the Tram Operator to announce to a full tram load, "And also today (your name) gets 2,000 GNAR extra credit points." Only one player per tram ride.</string>
+		<key>Points</key>
+		<integer>2000</integer>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Banana</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>1100</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Cheese Grater</key>
+	<dict>
+		<key>Hi</key>
+		<integer>300</integer>
+		<key>Lo</key>
+		<integer>900</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>Crag Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>250</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>650</integer>
+	</dict>
+	<key>Diagonal</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Far Right Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>350</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>750</integer>
+	</dict>
+	<key>Glen Plake Air</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>Poncet</key>
+	<dict>
+		<key>Hi</key>
+		<integer>750</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Pyramid Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Schmidt's</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>1100</integer>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>Slice</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1300</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<string>NR</string>
+	</dict>
+	<key>Slitoris</key>
+	<dict>
+		<key>Hi</key>
+		<integer>800</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1100</integer>
+	</dict>
+	<key>Steep Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1050</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>The Cooker</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<string>900</string>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>The Spitter</key>
+	<dict>
+		<key>Hi</key>
+		<integer>800</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Yikes</key>
+	<dict>
+		<key>Hi</key>
+		<integer>950</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Beck's Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1050</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Bower's Tower</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<string>NR</string>
+	</dict>
+	<key>Box Air</key>
+	<dict>
+		<key>Hi</key>
+		<integer>600</integer>
+		<key>Lo</key>
+		<integer>800</integer>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>Box Shelf</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>900</integer>
+		<key>Med</key>
+		<integer>700</integer>
+	</dict>
+	<key>Center Line</key>
+	<dict>
+		<key>Hi</key>
+		<integer>800</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1100</integer>
+	</dict>
+	<key>Chimney Sweep</key>
+	<dict>
+		<key>Hi</key>
+		<integer>700</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+	<key>Draft Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>950</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Easy Street</key>
+	<dict>
+		<key>Hi</key>
+		<integer>800</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Extra Alternate</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>Extra Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>300</integer>
+		<key>Lo</key>
+		<integer>900</integer>
+		<key>Med</key>
+		<integer>500</integer>
+	</dict>
+	<key>Extra Rock 1</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<integer>1100</integer>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>Extra Rock 2</key>
+	<dict>
+		<key>Hi</key>
+		<integer>650</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Extra Rock Box</key>
+	<dict>
+		<key>Hi</key>
+		<integer>500</integer>
+		<key>Lo</key>
+		<string>900</string>
+		<key>Med</key>
+		<integer>800</integer>
+	</dict>
+	<key>For Pete's Sake</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1300</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<string>NR</string>
+	</dict>
+	<key>Great Scott</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1050</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Hanging Valley</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>950</integer>
+		<key>Med</key>
+		<integer>850</integer>
+	</dict>
+	<key>Hawley Rock</key>
+	<dict>
+		<key>Hi</key>
+		<integer>450</integer>
+		<key>Lo</key>
+		<integer>850</integer>
+		<key>Med</key>
+		<integer>750</integer>
+	</dict>
+	<key>Main Chute</key>
+	<dict>
+		<key>Hi</key>
+		<integer>250</integer>
+		<key>Lo</key>
+		<integer>500</integer>
+		<key>Med</key>
+		<integer>450</integer>
+	</dict>
+	<key>McShlonkey's</key>
+	<dict>
+		<key>Hi</key>
+		<integer>900</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<string>NR</string>
+	</dict>
+	<key>Mr. Tool's</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Mr. Ugly</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>950</integer>
+	</dict>
+	<key>Pony Express</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1000</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>Schmidiots</key>
+	<dict>
+		<key>Hi</key>
+		<integer>900</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1200</integer>
+	</dict>
+	<key>The Gun Show</key>
+	<dict>
+		<key>Hi</key>
+		<integer>1200</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<string>NR</string>
+	</dict>
+	<key>The Loft</key>
+	<dict>
+		<key>Hi</key>
+		<integer>850</integer>
+		<key>Lo</key>
+		<string>NR</string>
+		<key>Med</key>
+		<integer>1050</integer>
+	</dict>
+	<key>The Tube</key>
+	<dict>
+		<key>Hi</key>
+		<integer>550</integer>
+		<key>Lo</key>
+		<integer>1100</integer>
+		<key>Med</key>
+		<integer>900</integer>
+	</dict>
+</dict>
+</plist>

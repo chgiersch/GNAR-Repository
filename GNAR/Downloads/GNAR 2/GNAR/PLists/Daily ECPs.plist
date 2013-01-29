@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bra Tree</key>
+	<integer>1000</integer>
+	<key>Cook Brekie</key>
+	<dict>
+		<key>0</key>
+		<string>3000</string>
+		<key>1</key>
+		<string>5000</string>
+	</dict>
+	<key>Extreme Brag</key>
+	<integer>1000</integer>
+	<key>First KT Chair</key>
+	<integer>5000</integer>
+	<key>First KT Chair to Fingers</key>
+	<integer>6000</integer>
+	<key>Froot Lingerie</key>
+	<integer>10000</integer>
+	<key>Goggle Tan</key>
+	<integer>500</integer>
+	<key>Headwall Wrap</key>
+	<integer>2000</integer>
+	<key>KT, Headwall, Granite</key>
+	<integer>2000</integer>
+	<key>Nug to McKitterick</key>
+	<integer>1000</integer>
+	<key>Pole Position</key>
+	<integer>2000</integer>
+	<key>Pro Call Out</key>
+	<integer>500</integer>
+	<key>Slasher</key>
+	<integer>2000</integer>
+	<key>Surfer Steve</key>
+	<integer>2000</integer>
+	<key>Ten Bucks</key>
+	<integer>1500</integer>
+	<key>Tram Announcment</key>
+	<integer>2000</integer>
+</dict>
+</plist>

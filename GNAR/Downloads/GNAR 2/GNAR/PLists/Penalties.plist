@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Belly Flop</key>
+	<integer>-1000</integer>
+	<key>Binding Butt</key>
+	<integer>-300</integer>
+	<key>Camel Back</key>
+	<integer>-1500</integer>
+	<key>Cheating</key>
+	<integer>-5000</integer>
+	<key>Day Ender</key>
+	<integer>-3000</integer>
+	<key>Fanny Pack</key>
+	<integer>-2000</integer>
+	<key>Fear of Heights</key>
+	<integer>-500</integer>
+	<key>Flailing Lagger</key>
+	<integer>-1000</integer>
+	<key>Forgot Claim</key>
+	<integer>-1000</integer>
+	<key>Gaper Gap</key>
+	<integer>-500</integer>
+	<key>Get Poached</key>
+	<integer>-3000</integer>
+	<key>Goggles and Hat</key>
+	<integer>-1000</integer>
+	<key>Goggles or Hat</key>
+	<integer>-500</integer>
+	<key>Hip Check</key>
+	<integer>-50</integer>
+	<key>Hot Tub</key>
+	<integer>-100</integer>
+	<key>Huck Neck</key>
+	<integer>-500</integer>
+	<key>Jellyfish</key>
+	<integer>-10000</integer>
+	<key>KT Cut</key>
+	<integer>-2500</integer>
+	<key>Knee to Face</key>
+	<integer>-3000</integer>
+	<key>Lee Dobby</key>
+	<integer>-5000</integer>
+	<key>Line Pause</key>
+	<integer>-50</integer>
+	<key>Lose 2 Skis</key>
+	<integer>-2000</integer>
+	<key>Lose Board</key>
+	<integer>-3000</integer>
+	<key>Lose Ski</key>
+	<integer>-1000</integer>
+	<key>Month Ender</key>
+	<integer>-10000</integer>
+	<key>Nice Patrol</key>
+	<integer>-2000</integer>
+	<key>Pectoral Stretch</key>
+	<integer>-200</integer>
+	<key>Punch Front</key>
+	<integer>-500</integer>
+	<key>Racer Boot</key>
+	<integer>-2000</integer>
+	<key>Ride with Chick</key>
+	<integer>-5000</integer>
+	<key>Scorpion</key>
+	<integer>-2000</integer>
+	<key>Season Ender</key>
+	<integer>0</integer>
+	<key>Season Pass</key>
+	<integer>-10000</integer>
+	<key>Snowball-100</key>
+	<integer>-2500</integer>
+	<key>Stabbed</key>
+	<integer>-500</integer>
+	<key>Ticket Pulled</key>
+	<integer>-5000</integer>
+	<key>Tomahawk</key>
+	<integer>-2000</integer>
+	<key>Total Idiot</key>
+	<integer>-5000</integer>
+	<key>Week Ender</key>
+	<integer>-5000</integer>
+	<key>Weird Crash</key>
+	<integer>-1000</integer>
+	<key>Wheelie</key>
+	<integer>-50</integer>
+	<key>Yard Sale</key>
+	<integer>-2500</integer>
+</dict>
+</plist>

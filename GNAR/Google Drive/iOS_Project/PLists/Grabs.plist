@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Blunt</key>
+	<integer>50</integer>
+	<key>Critical</key>
+	<integer>50</integer>
+	<key>Crotch Grab</key>
+	<integer>100</integer>
+	<key>Cruton</key>
+	<integer>50</integer>
+	<key>Double Nose</key>
+	<integer>50</integer>
+	<key>Double Tail</key>
+	<integer>50</integer>
+	<key>Indy</key>
+	<integer>50</integer>
+	<key>Japan</key>
+	<integer>50</integer>
+	<key>Lui Kang</key>
+	<integer>50</integer>
+	<key>Mute</key>
+	<integer>50</integer>
+	<key>Nose</key>
+	<integer>50</integer>
+	<key>Octograb</key>
+	<integer>50</integer>
+	<key>Safety</key>
+	<integer>50</integer>
+	<key>Tail</key>
+	<integer>50</integer>
+	<key>Toxic</key>
+	<integer>50</integer>
+	<key>Truck Driver</key>
+	<integer>50</integer>
+</dict>
+</plist>
