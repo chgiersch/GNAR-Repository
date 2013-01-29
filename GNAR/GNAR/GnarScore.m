@@ -12,7 +12,7 @@
 
 @synthesize name, score, date, dateString, scoreType, scoreID;
 
--(id)initWithName:(NSString*) _name: (int) _score: (NSDate*)_date: (NSString*)_scoreType :(int) _scoreID
+-(id)initWithName:(NSString*)_name: (int)_score: (NSDate*)_date: (NSString*)_scoreType :(int) _scoreID
 {
    self = [super init];
     if (self)

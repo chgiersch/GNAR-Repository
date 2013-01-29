@@ -3,36 +3,123 @@
 <plist version="1.0">
 <dict>
 	<key>Blunt</key>
-	<integer>50</integer>
+	<dict>
+		<key>Description</key>
+		<string>Grab under right binding on the outside of the ski.</string>
+		<key>Points</key>
+		<string>50</string>
+	</dict>
 	<key>Critical</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Grab inside edge of opposite ski in front of the binding instead of behind it. (Similar to japan)</string>
+	</dict>
 	<key>Crotch Grab</key>
-	<integer>100</integer>
+	<dict>
+		<key>Points</key>
+		<string>100</string>
+		<key>Description</key>
+		<string>Self-explainatory.</string>
+	</dict>
 	<key>Cruton</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>75</string>
+		<key>Description</key>
+		<string>AKA Double Japan or Japical. </string>
+	</dict>
 	<key>Double Nose</key>
-	<integer>50</integer>
+	<dict>
+		<key>Description</key>
+		<string>Grab both front tips of your skis with two hands.</string>
+		<key>Points</key>
+		<string></string>
+	</dict>
 	<key>Double Tail</key>
-	<integer>50</integer>
-	<key>Indy</key>
-	<integer>50</integer>
-	<key>Japan</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>75</string>
+		<key>Description</key>
+		<string>Grab one or both back tips or your skis with two hands.</string>
+	</dict>
+	<key>Indy?</key>
+	<dict>
+		<key>Description</key>
+		<string>Grab under right boot, with or without crossing skis.</string>
+		<key>Points</key>
+		<string>50</string>
+	</dict>
+	<key>Japan Air</key>
+	<dict>
+		<key>Description</key>
+		<string>Grab the inside edge of opposite ski behind your leg.</string>
+		<key>Points</key>
+		<string>50</string>
+	</dict>
 	<key>Lui Kang</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Grab under or behind same-side boot while kicking other leg out japan air style.</string>
+	</dict>
 	<key>Mute</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>75</string>
+		<key>Description</key>
+		<string>Grab in front of opposite boot while crossing skis.</string>
+	</dict>
 	<key>Nose</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Grab the front tip of your ski.</string>
+	</dict>
 	<key>Octograb</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>75</string>
+		<key>Description</key>
+		<string>Cross skis and grab nose with one hand and tail with the other.</string>
+	</dict>
 	<key>Safety</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Grab under boot with same-side hand.</string>
+	</dict>
 	<key>Tail</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Grab the tail of your ski. </string>
+	</dict>
 	<key>Toxic</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Cross skis and grab the inside edge of same-side ski behind boot. </string>
+	</dict>
 	<key>Truck Driver</key>
-	<integer>50</integer>
+	<dict>
+		<key>Points</key>
+		<string>75</string>
+		<key>Description</key>
+		<string>Grab both skis in front of boots (left to left, right to right). </string>
+	</dict>
+	<key>Tai Pan</key>
+	<dict>
+		<key>Points</key>
+		<string>50</string>
+		<key>Description</key>
+		<string>Same as mute, but grab behind your leg instead of in front.</string>
+	</dict>
 </dict>
 </plist>

@@ -240,7 +240,7 @@ High snow, 4.</string>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Description:" id="12r-Wc-nNi">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Description:      Line Description" id="12r-Wc-nNi">
                                 <rect key="frame" x="8" y="283" width="304" height="133"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
@@ -523,6 +523,56 @@ High snow, 4.</string>
         <image name="login-with-facebook.png" width="146" height="24"/>
         <image name="points_30.png" width="30" height="30"/>
     </resources>
+    <classes>
+        <class className="AddDetailViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AddDetailViewController.h"/>
+        </class>
+        <class className="AddViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/AddViewController.h"/>
+        </class>
+        <class className="ECPDetailViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ECPDetailViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="valueChanged:" candidateClass="UIStepper"/>
+                <relationship kind="outlet" name="abb" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="pointsLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="stepper" candidateClass="UIStepper"/>
+                <relationship kind="outlet" name="stepperLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="textView" candidateClass="UITextView"/>
+            </relationships>
+        </class>
+        <class className="LinesDetailViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/LinesDetailViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="segValueChanged:" candidateClass="UISegmentedControl"/>
+                <relationship kind="outlet" name="difficultyField" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="funField" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="heroField" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="pointsLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="segButton" candidateClass="UISegmentedControl"/>
+                <relationship kind="outlet" name="textView" candidateClass="UITextView"/>
+            </relationships>
+        </class>
+        <class className="MADFirstViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/MADFirstViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="gnarFactorLabel" candidateClass="UILabel"/>
+            </relationships>
+        </class>
+        <class className="MainTabController" superclassName="UITabBarController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/MainTabController.h"/>
+        </class>
+        <class className="MapViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/MapViewController.h"/>
+            <relationships>
+                <relationship kind="outlet" name="mapView" candidateClass="MKMapView"/>
+                <relationship kind="outlet" name="toolBar" candidateClass="UIToolbar"/>
+            </relationships>
+        </class>
+        <class className="ScoresViewController" superclassName="UITableViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ScoresViewController.h"/>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar" statusBarStyle="blackOpaque"/>
         <simulatedOrientationMetrics key="orientation"/>
