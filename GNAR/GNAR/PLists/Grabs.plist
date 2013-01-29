@@ -3,7 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>Blunt</key>
-	<integer>50</integer>
+	<dict>
+		<key>Description</key>
+		<string>Grab the outside edge ski with the same-side hand, with the skis uncrossed.</string>
+		<key>Points</key>
+		<integer>50</integer>
+	</dict>
 	<key>Critical</key>
 	<integer>50</integer>
 	<key>Crotch Grab</key>
